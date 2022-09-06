@@ -1,5 +1,7 @@
 "use strict";
 
+// Teste de Dashboard Serverless
+
 module.exports.hello = async (event) => {
   return {
     statusCode: 200,
