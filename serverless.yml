@@ -1,6 +1,6 @@
 org: matheusfidelis
 app: minicurso-serverless
-service: minicurso-serverless
+service: first-service-sls
 frameworkVersion: '3'
 
 provider:
