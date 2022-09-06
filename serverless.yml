@@ -1,3 +1,5 @@
+org: matheusfidelis
+app: minicurso-serverless
 service: minicurso-serverless
 frameworkVersion: '3'
 
