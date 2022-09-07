@@ -1,6 +1,6 @@
 const EmailService = require("../service/EmailService");
 const S3Service = require("../service/S3Service");
-
+//COnsole
 module.exports.onUpload = async (event) => {
   try {
     const links = event.Records.map((registro) => {
