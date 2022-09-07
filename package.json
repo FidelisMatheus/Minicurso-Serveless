@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FidelisMatheus/Minicurso-Serveless/issues"
   },
-  "homepage": "https://github.com/FidelisMatheus/Minicurso-Serveless#readme"
+  "homepage": "https://github.com/FidelisMatheus/Minicurso-Serveless#readme",
+  "dependencies": {
+    "nodemailer": "^6.7.8"
+  }
 }
